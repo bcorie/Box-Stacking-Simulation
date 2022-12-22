@@ -1,6 +1,6 @@
 # Course: Game Development for Programmers
 
-Simulate boxes stacking over the course of 3 days.
+Simulates boxes stacking over the course of 3 days.
 
 Specifications:
 - Include the given values and meanings for the following constant variables and method headers:
